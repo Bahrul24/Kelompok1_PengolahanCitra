@@ -1,0 +1,12 @@
+Pembagian Tugas 
+
+Mahasiswa 1 ( Mohammad Dimas Bahrul Ikhwani ) :                   
+- Penulisan Proposal Singkat
+- Studi literatur
+- Penulisan Makalah (Abstrak, Bab 1 Pendahuluan, Bab 2 Tinjauan Pustaka, Bab 3 Metodologi, dan Bab 5 Kesimpulan)
+
+
+Mahasiswa  ( Fauzan Fathin Zaky ):
+- Penulisan Makalah (Bab 4 Hasil dan Pembahasan)
+- Pengolahan citra & eksperimen 
+- Fokus pada coding (implementasi program)
